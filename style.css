@@ -1,0 +1,341 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.image1{
+
+    height: 95vh;
+    width: 100%;
+    background-image: url( ./image1.jpg );
+    background-position: center;
+    background-size: cover; 
+    display: inline-block;
+}
+ .h1{
+
+    text-align: center;
+    padding-top: 3%;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+.h2{
+        text-align: center;
+        padding-top: 0%;
+        font-size: 150%;
+        font-family: sans-serif;
+        color: rgb(36, 32, 32);
+}
+
+.ul{
+    list-style-type: none;
+    padding: 2% 1%;
+    margin: -1% 0%;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: default;
+    font-style: normal;
+    font-family: sans-serif;
+    color: rgb(109, 107, 107);
+    background-color: rgb(27, 25, 25);
+    
+ 
+}
+
+
+
+
+
+
+
+
+
+.image2{
+
+    height: 85vh;
+    width: 100%;
+    background-image: url( ./image2.jpg );
+    background-position: center;
+    background-size: cover; 
+ 
+}
+
+.image2 h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 300%;
+    padding-top: 40%;
+    text-align: center;
+  
+}
+
+.image2 p{
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 1%;
+    
+}
+
+.image2 a {
+    
+    position: absolute;
+    right: 47%;
+    font-size: 120%;
+    float: none;
+
+}
+
+.image3{
+
+    height: 85vh;
+    width: 100%;
+    background-image: url( ./image3.jpg );
+    background-position: center;
+    background-size: cover;
+
+}
+.img1{
+    position: absolute;
+    right: 40%;
+    width: 20%;
+    padding-top: 1%;
+
+}
+.image3 h1{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 10%;
+
+}
+ .a1{
+    float: none;
+    position: absolute;
+    right: 50%;
+    font-size: 120%;
+    line-height: 130%;
+}
+
+.a2{
+    float: none;
+    position: absolute;
+    right: 40%;
+    font-size: 120%;
+    line-height: normal;
+}
+
+
+.parent{
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 2%;
+    margin-top: 2%;
+}
+
+.image4{
+
+    height: 100vh;
+    width: 50%;
+    background-image: url( ./image4.jpg );
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+.image4 h1{
+
+    color: white;
+    text-align: center;
+    padding-top: 6%;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+
+.image4 p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.a3{
+
+    float: none;
+    position: absolute;
+    right: 75%;
+    font-size: 120%;
+    line-height: normal;
+
+}
+.a4{
+    float: none;
+    position: absolute;
+    right: 65%;
+    font-size: 120%;
+    line-height: normal;
+}
+
+
+.image5{
+
+    height: 100vh;
+    width: 50%;
+    background-image: url( ./image5.jpg );
+    background-position: center;
+    background-size: cover;
+   
+}
+.image5 h1{
+    color: rgb(17, 16, 16);
+    text-align: center;
+    padding-top: 6%;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+.image5 p{
+
+    color: rgb(17, 16, 16);;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+
+.image6{
+
+    height: 100vh;
+    width: 50%;
+    background-image: url( ./image6.jpg );
+    background-position: center;
+    background-size: cover;
+}
+.image6 h1{
+    color: white;
+    text-align: center;
+    padding-top: 6%;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+
+.image6 p{
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.image7{
+
+    height: 100vh;
+    width: 50%;
+    background-image: url( ./image7.jpg );
+    background-position: center;
+    background-size: cover;
+    
+}
+.image7 h1{
+    color: rgb(20, 19, 19);
+    text-align: center;
+    padding-top: 15%;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+.image7 p{
+
+    color:  rgb(20, 19, 19);;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.img2{
+
+    position: absolute;
+    right: 18%;
+    width: 15%;
+    padding-top: 1%;
+}
+
+.a5{
+
+    float: none;
+    position: absolute;
+    right: 25%;
+    font-size: 120%;
+    line-height: normal;
+
+}
+.a6{
+    float: none;
+    position: absolute;
+    right: 16%;
+    font-size: 120%;
+    line-height: normal;
+
+}
+
+.image9{
+    height: 100vh;
+    width: 50%;
+    background-image: url( ./image9.png );
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+.image9 h1{
+    color: rgb(17, 16, 16);
+    text-align: center;
+    padding-top: 6%;
+    font-size: 300%;
+    font-family: sans-serif;
+}
+.image9 p{
+
+    color: rgb(17, 16, 16);;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 15%;
+}
+.image8{
+
+    height: 100vh;
+    width: 50%;
+    background-image: url( ./image8.jpg );
+    background-position: center;
+    background-size: cover;
+    
+
+
+}
+
+.image8 p{
+
+    color:  rgb(20, 19, 19);;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.img3{
+    position: absolute;
+    right: 18%;
+    width: 15%;
+    padding-top: 1%;
+}
